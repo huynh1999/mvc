@@ -7,10 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3142362b-5e0b-4fcd-968c-8f57cec3b9c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jwat/config/JPAConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jwat/config/JPAConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jwat/repository/NewRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jwat/service/impl/NewService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jwat/service/impl/NewService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/decorators.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/decorators.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,11 +128,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -158,6 +151,7 @@
       <workItem from="1581043156782" duration="680000" />
       <workItem from="1581255951234" duration="54000" />
       <workItem from="1581258478292" duration="555000" />
+      <workItem from="1581260830954" duration="33000" />
     </task>
     <servers />
   </component>
@@ -221,9 +215,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1024" height="470" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1581259033521" />
-    <state x="444" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1581258478517">
+    <state x="444" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1581260831382">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="444" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581258478517" />
+    <state x="444" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581260831382" />
   </component>
 </project>
