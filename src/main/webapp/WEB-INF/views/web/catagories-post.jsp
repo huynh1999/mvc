@@ -5,7 +5,7 @@
 <html>
 
 <head>
-
+	<meta property="fb:app_id" content="2959170494151349" />
 <meta charset="UTF-8">
 <title>${model.item.title}</title>
 <style type="text/css">
@@ -19,10 +19,14 @@
     font-size: 1.1em;
 }
 </style>
+
+
 </head>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v6.0&appId=2959170494151349&autoLogAppEvents=1"></script>
 
 <body>
-	<center><h1>${model.item.title}</h1></center>
+<center><h1>${model.item.title}</h1></center>
 	<center><div>
 		${model.item.shortDescription}
 	</div></center>
@@ -31,15 +35,9 @@
 	<div class="the-article-body">
 	
 		${model.item.content}
-		<div id="fb-root"></div>
 		<h5>Bình Luận</h5>
-		<br>
-			<div id="fb-root"></div>
-			<div id="fb-root"></div>
-			<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v6.0&appId=180177056544688&autoLogAppEvents=1"></script>
-			<div class="fb-comments" data-href="https://springjwat.herokuapp.com/${model.item.id}" data-width="700" data-numposts="5"></div>
+			<div class="fb-comments" data-href="https://springjwat.herokuapp.com/" data-width="" data-numposts="5"></div>
 	</div>
-		
 	</div>
 	<!-- /.container -->
 
