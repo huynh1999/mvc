@@ -22,10 +22,11 @@
 
 
 </head>
+
+<body>
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v6.0&appId=2959170494151349&autoLogAppEvents=1"></script>
 
-<body>
 <center><h1>${model.item.title}</h1></center>
 	<center><div>
 		${model.item.shortDescription}
