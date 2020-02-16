@@ -18,7 +18,8 @@
     font-size: 1.1em;
 }
 </style>
-	<meta property="fb:app_id" content="2959170494151349" />
+
+
 </head>
 
 <body>
