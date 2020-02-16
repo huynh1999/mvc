@@ -17,8 +17,9 @@
 
     <!-- Title -->
     <title>The News Paper - News &amp; Lifestyle Magazine Template</title>
- 
-   
+    <meta property="fb:app_id" content="2959170494151349" />
+
+
 
 </head>
 
